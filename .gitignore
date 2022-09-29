@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# CMake build folder
+build
+
+# LSP files
+compile_commands.json
